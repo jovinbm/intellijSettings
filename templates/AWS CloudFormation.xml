@@ -1,0 +1,6 @@
+<templateSet group="AWS CloudFormation">
+  <template name="ref" value="{ &quot;Ref&quot;: &quot;$VAL$&quot; }" description="Inserts reference to an entity" toReformat="false" toShortenFQNames="false" deactivated="true">
+    <variable name="VAL" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

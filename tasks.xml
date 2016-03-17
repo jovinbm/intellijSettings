@@ -1,0 +1,8 @@
+<application>
+  <component name="TaskStorage">
+    <tasks>
+      <task priority="Normal" completed="false" estimated="0" created="1457230014460" actual="0" highlighted="false" highlightingtype="Red" title="initiatePostChanges" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1457230031121" actual="0" highlighted="false" highlightingtype="Red" title="initiateMultiplePostChanges" description="" />
+    </tasks>
+  </component>
+</application>

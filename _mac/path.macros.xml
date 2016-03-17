@@ -1,0 +1,11 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="mongo" value="/usr/local/Cellar/mongodb/2.6.6/bin/mongo" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/jovinbm/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+  </component>
+</application>
