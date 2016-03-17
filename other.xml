@@ -71,11 +71,11 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/local/bin/nodemon">
-      <version-cache version="1.8.1" last-modified="1446472417000" />
-    </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="4.2.4" last-modified="1450889224000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/nodemon">
+      <version-cache version="1.8.1" last-modified="1446472417000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.7/bin/node">
       <version-cache version="0.12.7" last-modified="1436483590000" />
