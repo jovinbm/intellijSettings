@@ -138,4 +138,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="swal" value="swal({&#10;        title              : &quot;Are you sure?&quot;,&#10;        text               : &quot;Are you sure that you want to delete this photo?&quot;,&#10;        type               : &quot;warning&quot;,&#10;        showCancelButton   : true,&#10;        closeOnConfirm     : false,&#10;        confirmButtonText  : &quot;Yes, delete it!&quot;,&#10;        confirmButtonColor : &quot;#ec6c62&quot;,&#10;        showLoaderOnConfirm: true&#10;    }, function (result) {&#10;        // result is false on cancellation or pressing escape key&#10;&#10;        Promise.resolve()&#10;            .then(function () {&#10;                console.log(result);&#10;                return true;&#10;            })&#10;            .catch(function (e) {&#10;                resolveError(e);&#10;                return true;&#10;            })&#10;            .finally(function () {&#10;                swal(&quot;Deleted!&quot;, &quot;Your file was successfully deleted!&quot;, &quot;success&quot;);&#10;            });&#10;    });" description="sweet alert template" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
