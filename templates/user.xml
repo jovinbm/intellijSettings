@@ -127,4 +127,15 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="document.ready" value="$(document).ready(function () {&#10;$END$&#10;});" description="jquery document.redy" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
