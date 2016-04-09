@@ -66,10 +66,6 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="DependencyUISettings">
-    <option name="UI_FLATTEN_PACKAGES" value="false" />
-    <option name="SCOPE_TYPE" value="file" />
-  </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="4.2.4" last-modified="1450889224000" />
