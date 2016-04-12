@@ -186,4 +186,15 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="util.inspect" value="var util = require('util');&#10;console.log(util.inspect($VAR1$, false, null));$END$" description="util.inspect" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
