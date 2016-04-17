@@ -197,4 +197,15 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="setTimeout" value="setTimeout(function () {&#10;  $END$    &#10;}, $VAR1$);" description="js setTimeout" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
