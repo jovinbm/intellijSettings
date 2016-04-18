@@ -1,11 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="angular-toastr-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angular-toastr_angular-toastr.d.ts" />
-      </CLASSES>
-      <SOURCES />
-    </library>
     <library name="angularjs-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-animate.d.ts" />
@@ -97,6 +91,17 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="kue-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_kue_kue.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_kue_kue.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="mongoose-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -111,12 +116,6 @@
     <library name="morgan-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_morgan_morgan.d.ts" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="ng-dialog-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_ng-dialog_ng-dialog.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
