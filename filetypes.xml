@@ -1,11 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitIgnore" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping pattern=".ejs" type="com/webschik/doT" />
       <mapping pattern="nginx" type="nginx file type" />
       <mapping ext="conf" type="nginx file type" />
     </extensionMap>
