@@ -66,16 +66,15 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="DependencyUISettings">
-    <option name="UI_FLATTEN_PACKAGES" value="false" />
-    <option name="SCOPE_TYPE" value="file" />
-  </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="4.2.4" last-modified="1450889224000" />
     </local-interpreter>
     <local-interpreter path="/usr/local/bin/nodemon">
       <version-cache version="1.8.1" last-modified="1446472417000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/pm2">
+      <version-cache version="0.14.3" last-modified="1435757612000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.7/bin/node">
       <version-cache version="0.12.7" last-modified="1436483590000" />
