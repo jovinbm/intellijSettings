@@ -20,7 +20,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="axpError_client" value="new axpError({&#10;code: $VAR$,&#10;msg: $VAR2$,&#10;message: $VAR3$,&#10;print: $VAR4$&#10;show: $VAR3$,&#10;})$END$" description="throws a new axpError in client environment" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="axpError_client" value="new axpError({&#10;code: $VAR$,&#10;msg: $VAR2$,&#10;message: $VAR3$,&#10;print: $VAR4$&#10;})$END$" description="throws a new axpError in client environment" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
