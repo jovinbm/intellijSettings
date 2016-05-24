@@ -20,12 +20,17 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="axpError_client" value="new axpError({&#10;code: $VAR$,&#10;msg: $VAR2$,&#10;message: $VAR3$,&#10;print: $VAR4$,&#10;notify: $VAR5$&#10;})$END$" description="throws a new axpError in client environment" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="axpError_client" value="new axpError({&#10;code: $VAR$,&#10;msg: $VAR2$,&#10;message: $VAR3$,&#10;notify: $VAR4$,&#10;type: $VAR5$,&#10;print: $VAR6$,&#10;redirect: $VAR7$,&#10;redirectPath: $VAR8$,&#10;redirectUrl: $VAR9$,&#10;reload: $VAR10$&#10;})$END$" description="throws a new axpError in client environment" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR4" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR5" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR6" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR7" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR8" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR9" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR10" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
@@ -33,11 +38,17 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="axpError_node" value="new axpError({&#10;code: $VAR$,&#10;msg: $VAR2$,&#10;message: $VAR3$,&#10;print: $VAR4$&#10;});" description="throws a new axpError in node environment" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="axpError_node" value="new axpError({&#10;code: $VAR$,&#10;msg: $VAR2$,&#10;message: $VAR3$,&#10;notify: $VAR4$,&#10;type: $VAR4_1$&#10;redirect: $VAR5$,&#10;redirectPath: $VAR6$,&#10;redirectUrl: $VAR7$,&#10;reload: $VAR8$,&#10;print: $VAR9$&#10;});" description="throws a new axpError in node environment" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR4_1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR5" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR6" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR7" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR8" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR9" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
