@@ -229,4 +229,14 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="requireDir" value="var normalizedPath = path.join(__dirname);&#10;&#10;  var excludeFiles = [fileName];&#10;&#10;  fs.readdirSync(normalizedPath).forEach(function (fileNameWithExt) {&#10;    if (fs.statSync(path.join(normalizedPath, fileNameWithExt)).isFile()) {&#10;&#10;      if (excludeFiles.indexOf(fileNameWithExt) === -1) {&#10;        require(&quot;./&quot; + fileNameWithExt)(app, rq, $VAR1$);&#10;      }&#10;&#10;    } else {&#10;      require(&quot;./&quot; + fileNameWithExt + '/index.js')(app, rq, $VAR2$);&#10;    }&#10;&#10;  });" description="Require index that requires index" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
