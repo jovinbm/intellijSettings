@@ -239,7 +239,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="response_schema" value="var response_schema = {&#10;                    default : {},&#10;                    schema  : {&#10;                      type: 'object',&#10;                      code: {&#10;                        type: 'number'&#10;                      }&#10;                    },&#10;                    required: ['code']&#10;                  };" toReformat="true" toShortenFQNames="true">
+  <template name="response_schema" value="var response_schema = {&#10;              default: {},&#10;              schema : {&#10;                type      : 'object',&#10;                properties: {&#10;                  code                : {&#10;                    type: 'number'&#10;                  }&#10;                },&#10;                required            : ['code'],&#10;                additionalProperties: true&#10;              }&#10;            };" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
