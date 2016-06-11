@@ -38,7 +38,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="axpError_node" value="new axpError({&#10;code: $VAR$,&#10;msg: $VAR2$,&#10;message: $VAR3$,&#10;notify: $VAR4$,&#10;type: $VAR4_1$&#10;redirect: $VAR5$,&#10;redirectPath: $VAR6$,&#10;redirectUrl: $VAR7$,&#10;reload: $VAR8$,&#10;print: $VAR9$&#10;});" description="throws a new axpError in node environment" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="axpError_node" value="new axpError({&#10;code: $VAR$,&#10;msg: $VAR2$,&#10;message: $VAR3$,&#10;notify: $VAR4$,&#10;type: $VAR4_1$,&#10;redirect: $VAR5$,&#10;redirectPath: $VAR6$,&#10;redirectUrl: $VAR7$,&#10;reload: $VAR8$,&#10;print: $VAR9$&#10;});" description="throws a new axpError in node environment" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
