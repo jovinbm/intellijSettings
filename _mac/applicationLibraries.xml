@@ -89,11 +89,6 @@
       <SOURCES />
     </library>
     <library name="express-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_express_express.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_express_express.d.ts" />
       </CLASSES>
@@ -135,6 +130,17 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="knex-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_knex_knex.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_knex_knex.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="kue-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -160,11 +166,6 @@
       <SOURCES />
     </library>
     <library name="mongoose-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mongoose_mongoose.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mongoose_mongoose.d.ts" />
       </CLASSES>
@@ -205,22 +206,12 @@
       <SOURCES />
     </library>
     <library name="passport-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_passport_passport.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_passport_passport.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="passport-local-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_passport-local_passport-local.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_passport-local_passport-local.d.ts" />
       </CLASSES>
