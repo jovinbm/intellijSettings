@@ -1,44 +1,38 @@
 <application>
   <component name="libraryTable">
     <library name="angular-file-upload-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angular-file-upload_angular-file-upload.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angular-file-upload_angular-file-upload.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="angularjs-DefinitelyTyped" type="javaScript">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-animate.d.ts" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-sanitize.d.ts" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-component-router.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-cookies.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-mocks.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-resource.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-route.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-animate.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-sanitize.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-component-router.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="aws-sdk-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_aws-sdk_aws-sdk.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="bcryptjs-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_bcryptjs_bcryptjs.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_bcryptjs_bcryptjs.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="bluebird-DefinitelyTyped" type="javaScript">
@@ -46,76 +40,77 @@
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_bluebird_bluebird.d.ts" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_bluebird_bluebird-1.0.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="cheerio-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_cheerio_cheerio.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="cookie-parser-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_cookie-parser_cookie-parser.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="d3-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_d3_d3.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_d3_d3.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="dot-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_dot_dot.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_dot_dot.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="ejs-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_ejs_ejs.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="express-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_express_express.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="fbsdk-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_fbsdk_fbsdk.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="fs-extra-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_fs-extra_fs-extra.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="jasmine-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jasmine_jasmine.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="jasmine-node-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jasmine-node_jasmine-node.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="jquery-DefinitelyTyped" type="javaScript">
@@ -128,93 +123,78 @@
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
       </DOCUMENTATION>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="knex-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_knex_knex.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_knex_knex.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="kue-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_kue_kue.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_kue_kue.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="moment-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_moment_moment-node.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_moment_moment.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_moment_moment-node.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_moment_moment.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="mongoose-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mongoose_mongoose.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="morgan-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_morgan_morgan.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="mysql-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mysql_mysql.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mysql_mysql.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="ng-file-upload-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_ng-file-upload_ng-file-upload.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="node_redis-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node_redis_node_redis.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_node_redis_node_redis.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="passport-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_passport_passport.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="passport-local-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_passport-local_passport-local.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="Python 3.5.1 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3) interpreter library">
@@ -234,6 +214,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/-923448878" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="jar:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/setuptools-11.3.1-py2.7.egg!/" />
         <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pip-6.0.6-py2.7.egg" />
